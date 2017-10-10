@@ -1,4 +1,4 @@
-describe('Array', function() {
+describe('Test Array', function() {
   before(function() {
     // do some stuff
   });
