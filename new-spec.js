@@ -27,5 +27,8 @@ describe('NEW Test Array', function() {
     it('should return the number of items in the array', function() {
       [1,2,3].length().should.equal(3);
     });
+    it('test2', function() {
+      [1,2,3].length().should.equal(3);
+    });
   });
 });
